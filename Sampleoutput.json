@@ -1,0 +1,84 @@
+{
+  "status": "ok",
+  "totalResults": 12252,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "BeauHD",
+      "title": "Police Records Show Women Are Stalked With Apple AirTags Across the Country",
+      "description": "samleecole shares a report from Motherboard: Police records reviewed by Motherboard show that, as security experts immediately predicted when the product launched, this technology has been used as a tool to stalk and harass women. Motherboard requested record…",
+      "url": "https://yro.slashdot.org/story/22/04/06/2148248/police-records-show-women-are-stalked-with-apple-airtags-across-the-country",
+      "urlToImage": "https://a.fsdn.com/sd/topics/privacy_64.png",
+      "publishedAt": "2022-04-07T02:02:00Z",
+      "content": "Police records reviewed by Motherboard show that, as security experts immediately predicted when the product launched, this technology has been used as a tool to stalk and harass women. Motherboard r… [+1542 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Alexander Spier",
+      "title": "heise+ | Anleitung: macOS unter Windows ausprobieren mit dem Subsystem für Linux und QEMU",
+      "description": "Mit nur wenigen Handgriffen lässt sich ein aktuelles macOS auf Windows 11 installieren und ausführen. Wir zeigen, wie es geht und was Sie dafür brauchen.",
+      "url": "https://www.heise.de/ratgeber/Anleitung-macOS-unter-Windows-ausprobieren-mit-dem-Subsystem-fuer-Linux-und-QEMU-6663861.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/4/4/8/1/6/6/aufmacher-cf7d7ce01e5f43ab.png",
+      "publishedAt": "2022-04-07T05:30:00Z",
+      "content": "Inhaltsverzeichnis\r\nUm in macOS reinzuschnuppern, könnte man einen Apple-Computer kaufen oder einen Hackintosh bauen. Doch das eine kostet viel Geld und das andere ist mit viel Bastelarbeit verbunden… [+1966 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Filipe Espósito",
+      "title": "Apple can now repair Face ID on iPhone X without replacing the entire device",
+      "description": "Earlier this year, Apple introduced new tools for its technicians that makes it possible to repair the Face ID module without having to replace the entire iPhone. However, these tools were only available for iPhone XS and later. Now the company has finally ex…",
+      "url": "https://9to5mac.com/2022/04/06/apple-can-now-repair-face-id-on-iphone-x-without-replacing-the-entire-device/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/04/TrueDepth-Camera-Face-ID-iPhone-X.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-04-07T02:57:41Z",
+      "content": "Earlier this year, Apple introduced new tools for its technicians that makes it possible to repair the Face ID module without having to replace the entire iPhone. However, these tools were only avail… [+1375 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (Darryl Boxberger)",
+      "title": "Apple orders psychological thriller series 'Constellation'",
+      "description": "Apple TV+ has announced a new, conspiracy-based psychological thriller \"Constellation,\" which is set to star Noomi Rapace and Jonathan Banks.Image Credit: AppleThe series will feature a plot surrounding Jo (Rapace), who returned to Earth after suffering a dis…",
+      "url": "https://appleinsider.com/articles/22/04/07/apple-orders-psychological-thriller-series-constellation",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/47807-93387-040622_ATV_Lands_Constellation_Psych_Thriller_Big_Image-xl.jpg",
+      "publishedAt": "2022-04-07T01:16:11Z",
+      "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+1195 chars]"
+    },
+    {
+        "source": {
+        "id": null,
+        "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Tanis: 'First dinosaur fossil linked to asteroid strike' - BBC.com",
+        "description": "Remains are unearthed of a dinosaur that may have died on the very day a space rock hit Earth.",
+        "url": "https://www.bbc.com/news/science-environment-61013740",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3562/production/_124066631_mightyindex.jpg",
+        "publishedAt": "2022-04-06T20:59:26Z",
+        "content": "Jonathan AmosScience correspondent@BBCAmoson Twitter\r\nMedia caption, Watch: Sir David Attenborough seeks expert help to understand the significance of the fossil leg\r\nScientists have presented a stun… [+7588 chars]"
+        },
+        {
+        "source": {
+        "id": "google-news",
+        "name": "Google News"
+        },
+        "author": null,
+        "title": "Mariupol mayor calls Russian siege 'the new Auschwitz,' says more than 5,000 civilians have been killed: Live Ukraine updates - USA TODAY",
+        "description": null,
+        "url": "https://news.google.com/__i/rss/rd/articles/CBMiaGh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzLzIwMjIvMDQvMDYvdWtyYWluZS1ydXNzaWEtaW52YXNpb24tbGl2ZS11cGRhdGVzLzk0ODAxMzQwMDIv0gEnaHR0cHM6Ly9hbXAudXNhdG9kYXkuY29tL2FtcC85NDgwMTM0MDAy?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2022-04-06T20:31:24Z",
+        "content": null
+        }
+  ]
+}
